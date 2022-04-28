@@ -48,7 +48,7 @@ void setup(){
 	Insérer le retard approximatif dans les paramètres de la fonction
 	EX : config_RTC(20); // valeur maxi 60
 */
-	//config_RTC(); 
+	config_RTC(); 
 }
 
 void loop(){
