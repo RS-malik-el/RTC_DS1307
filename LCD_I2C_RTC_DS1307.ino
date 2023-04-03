@@ -1,6 +1,6 @@
 /*
 	DATE : 28/04/2022
-	AUTHEUR : RACHEL SYSTEME
+	AUTEUR : RACHEL SYSTEME
 
 	Ce programme permet de lire la date et l'heure via le module
 	RTC DS1307 puis de l'afficher sur un ecran LCD 16x02 I2C.
