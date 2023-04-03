@@ -139,7 +139,7 @@ void time_f12(){
 	Now = rtc.now();
 
 	lcd.setCursor(0,1);
-	lcd.print("Heure ");
+	lcd.print("H ");
 	lcd.print(Now.twelveHour());
 	lcd.print(":");
 	lcd.print(Now.minute());
