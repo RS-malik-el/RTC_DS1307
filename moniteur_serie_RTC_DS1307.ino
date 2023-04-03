@@ -1,6 +1,6 @@
 /*
 	DATE : 28/04/2022
-	AUTHEUR : RACHEL SYSTEME
+	AUTEUR : RACHEL SYSTEME
 
 	Ce programme permet de lire la date et l'heure via le module
 	RTC DS1307 puis de l'afficher dans le moniteur série.
